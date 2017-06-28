@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello people!
+
+My name is Veronica and I am junior web designer.
